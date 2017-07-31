@@ -1,0 +1,1 @@
+banner: https://www.seraku.co.jp/
